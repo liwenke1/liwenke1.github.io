@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a master student advised by Prof. [Cai Fu](https://faculty.hust.edu.cn/fucai/en/index.htm) at the School of Cyber Science and Engineering in Huazhong University of Science of Technology(HUST). Before that, i received my bachelor's Degree in June 2018 from Huazhong University of Science of Technology(HUST).
+I am a master student advised by Prof. [Cai Fu](https://faculty.hust.edu.cn/fucai/en/index.htm) at the School of Cyber Science and Engineering in Huazhong University of Science of Technology(HUST). Before that, i received my bachelor's Degree in June 2022 from Huazhong University of Science of Technology(HUST).
 
 My research interest includes vulnerability detection and open source governance, etc.
 
