@@ -22,8 +22,12 @@ I am a master student advised by Prof. [Cai Fu](https://faculty.hust.edu.cn/fuca
 My research interest includes vulnerability detection and open source governance, etc.
 
 # 📖 Educations
-- *2022.09 - now*, School of Cyber Science and Engineering, Huazhong University of Science of Technology, Wuhan, China. 
-- *2018.09 - 2022.06*, School of Cyber Science and Engineering, Huazhong University of Science of Technology, Wuhan, China. 
+
+- *2022.09 - now*, Huazhong University of Science of Technology
+<br>Master, Cyber Security
+
+- *2018.09 - 2022.06*, Huazhong University of Science of Technology
+<br>Bachelor, Information Security
 
 # 📝 Publications 
 
