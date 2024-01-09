@@ -34,22 +34,22 @@ My research interest includes vulnerability detection and open source governance
 - [ASE 2023] A Large-Scale Empirical Study on Semantic Versioning in Golang Ecosystem
 <br>**Wenke Li**, Feng Wu, Cai Fu, Fan Zhou
 <br>in Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering
-<br>[[PDF]](pdf/A Large-Scale Empirical Study on Semantic Versioning in Golang Ecosystem.pdf)[[Code]](https://github.com/liwenke1/GoSVI) <font color="#dd0000">(CCF-A)</font>
+<br>[[PDF]](pdf/ASE_2023_GoSVI.pdf)[[Code]](https://github.com/liwenke1/GoSVI) <font color="#dd0000">(CCF-A)</font>
 
 - [ISSTA 2023] Interpreters for GNN-Based Vulnerability Detection: Are We There Yet?
 <br>Yutao Hu, Suyuan Wang, **Wenke Li**, Junru Peng, Yueming Wu, Deqing Zou, Hai Jin
 <br>in Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis
-<br>[[PDF]](pdf/Interpreters for GNN-Based Vulnerability Detection- Are We There Yet?.pdf)[[Code]](https://github.com/vdgraph/vdigraph) <font color="#dd0000">(CCF-A)</font>
+<br>[[PDF]](pdf/ISSTA_2023_Study.pdf)[[Code]](https://github.com/vdgraph/vdigraph) <font color="#dd0000">(CCF-A)</font>
 
 - [JOS 2023] A Slice-level Vulnerability Detection and Interpretation Method Based on Graph Neural Network
 <br>Yutao Hu, Suyuan Wang, Yueming Wu, Deqing Zou, **Wenke Li**, and Hai Jin
 <br>Journal of Software
-<br>[[PDF]](/Users/liwenke/Desktop/code/liwenke1.github.io/pdf/基于图神经网络的切片级漏洞检测及解释方法.pdf)[[Code]](https://github.com/Stwsyburg/Vuldetexp) <font color="#dd0000">(CCF-A in Chinese)</font>
+<br>[[PDF]](pdf/JOS_2023_Vuldetexp.pdf)[[Code]](https://github.com/Stwsyburg/Vuldetexp) <font color="#dd0000">(CCF-A in Chinese)</font>
 
 - [TDSC 2022] mVulPreter: A Multi-Granularity Vulnerability Detection System With Interpretations
 <br>Deqing Zou, Yutao Hu, **Wenke Li**, Yueming Wu, Haojun Zhao, Hai Jin
 <br>IEEE Transactions on Dependable and Secure Computing
-<br>[[PDF]](pdf/mVulPreter- A Multi-granularity Vulnerability Detection System with Interpretations.pdf)[[Code]](https://github.com/tao7777/mVulPreter) <font color="#dd0000">(CCF-A)</font>
+<br>[[PDF]](pdf/TDSC_2022_mVulPreter.pdf)[[Code]](https://github.com/tao7777/mVulPreter) <font color="#dd0000">(CCF-A)</font>
 
 # 💻 Internships
 - *2022.01 - now*, Platform and Content Group, Tencent Technology (Shenzhen) Co.Ltd, Shenzhen, China.
