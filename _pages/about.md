@@ -23,7 +23,7 @@ My research interest includes vulnerability detection and open source governance
 
 # 📖 Educations
 
-- *2022.09 - now*, Huazhong University of Science of Technology
+- *2022.09 - now (2025.06)*, Huazhong University of Science of Technology
 <br>Master, Cyber Security
 
 - *2018.09 - 2022.06*, Huazhong University of Science of Technology
@@ -52,5 +52,5 @@ My research interest includes vulnerability detection and open source governance
 <br>[[PDF]](pdf/TDSC_2022_mVulPreter.pdf)[[Code]](https://github.com/tao7777/mVulPreter) <font color="#dd0000">(CCF-A)</font>
 
 # 💻 Internships
-- *2022.01 - now*, Platform and Content Group, Tencent Technology (Shenzhen) Co.Ltd, Shenzhen, China.
+- *2022.01 - 2024.03*, Platform and Content Group, Tencent Technology (Shenzhen) Co.Ltd, Shenzhen, China.
 - *2021.07 - 2021.09*, Cloud and Smart Industries Group, Tencent Technology (Shenzhen) Co.Ltd, Shenzhen, China
