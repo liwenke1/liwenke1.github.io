@@ -52,5 +52,6 @@ My research interest includes vulnerability detection and open source governance
 <br>[[PDF]](pdf/TDSC_2022_mVulPreter.pdf)[[Code]](https://github.com/tao7777/mVulPreter) <font color="#dd0000">(CCF-A)</font>
 
 # 💻 Internships
+- *2024.07 - 2024.08*, Huawei Technologies Co.Ltd, Shenzhen, China.
 - *2022.01 - 2024.03*, Platform and Content Group, Tencent Technology (Shenzhen) Co.Ltd, Shenzhen, China.
 - *2021.07 - 2021.09*, Cloud and Smart Industries Group, Tencent Technology (Shenzhen) Co.Ltd, Shenzhen, China
