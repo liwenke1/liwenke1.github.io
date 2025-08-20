@@ -31,6 +31,11 @@ My research interest includes vulnerability detection and open source governance
 
 # 📝 Publications 
 
+- [ISSTA 2025] From Large Language Models to Adversarial Malware: How far are we
+<br>Shuai He, Hao Yan, **Wenke Li**, Sheng Hong, Xiaowei Guo, Xiaofan Liu, Cai Fu
+<br>in Proceedings of the 34th ACM SIGSOFT International Symposium on Software Testing and Analysis
+<br>[[PDF]](pdf/ISSTA_2025_Malware.pdf)[[Code]](https://github.com/Optimus-He/From-Large-Language-Models-to-Adversarial-Malware-How-far-are-we) <font color="#dd0000">(CCF-A)</font> <font color="#dd0000">short paper</font>
+
 - [ASE 2023] A Large-Scale Empirical Study on Semantic Versioning in Golang Ecosystem
 <br>**Wenke Li**, Feng Wu, Cai Fu, Fan Zhou
 <br>in Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering
