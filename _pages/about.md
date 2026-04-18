@@ -17,19 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a master student advised by Prof. [Cai Fu](https://faculty.hust.edu.cn/fucai/en/index.htm) at the School of Cyber Science and Engineering in Huazhong University of Science of Technology(HUST). Before that, i received my bachelor's Degree in June 2022 from Huazhong University of Science of Technology(HUST).
+I am a Ph.D. student advised by Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/) at the College of Computing and Data Science in Nanyang Technological University (NTU), Singapore. I received my Master's and Bachelor's degrees in Cyber Security and Information Security from Huazhong University of Science and Technology (HUST) in 2025 and 2022, respectively, where I was advised by Prof. [Cai Fu](https://faculty.hust.edu.cn/fucai/en/index.htm).
 
-My research interest includes vulnerability detection and open source governance, etc.
-
-# 📖 Educations
-
-- *2022.09 - now (2025.06)*, Huazhong University of Science of Technology
-<br>Master, Cyber Security
-
-- *2018.09 - 2022.06*, Huazhong University of Science of Technology
-<br>Bachelor, Information Security
+My research interest includes vulnerability detection, open source governance, and software security, etc.
 
 # 📝 Publications 
+
+- [ICSE 2026] Semantic-Enhanced Automatic Refinement of Architecture Recovery Results Using LLMs
+<br>Yiran Zhang, Chengwei Liu, Yuqiang Sun, Zhengzi Xu, Weisong Sun, **Wenke Li**, Wuxia Jin, Yang Liu
+<br>in Proceedings of the 48th IEEE/ACM International Conference on Software Engineering
+<br>[[PDF]](/)[[Code]](/) <font color="#dd0000">(CCF-A)</font>
 
 - [ISSTA 2025] From Large Language Models to Adversarial Malware: How far are we
 <br>Shuai He, Hao Yan, **Wenke Li**, Sheng Hong, Xiaowei Guo, Xiaofan Liu, Cai Fu
