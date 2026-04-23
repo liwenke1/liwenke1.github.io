@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wenke Li"
-description              : "Huazhong University of Science of Technology"
+description              : "Nanyang Technological University"
 repository               : "liwenke1/liwenke1.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Wenke Li"
   avatar           : "images/citations.jpeg"
   bio              : ""
-  location         : "Wuhan, China"
+  location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=1wiJpTcAAAAJ"

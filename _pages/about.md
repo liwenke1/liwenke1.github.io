@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student advised by Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/) at the College of Computing and Data Science in Nanyang Technological University (NTU), Singapore. I received my Master's and Bachelor's degrees in Cyber Security and Information Security from Huazhong University of Science and Technology (HUST) in 2025 and 2022, respectively, where I was advised by Prof. [Cai Fu](https://faculty.hust.edu.cn/fucai/en/index.htm).
+I am a Ph.D. student advised by Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/) at the College of Computing and Data Science in Nanyang Technological University (NTU), Singapore. I received my Master's and Bachelor's degrees in Cyber Security and Information Security from Huazhong University of Science and Technology (HUST) in 2025 and 2022, respectively, where I was advised by Prof. [Cai Fu](https://faculty.hust.edu.cn/fucai/en/index.htm), and Prof. [Chengwei Liu](https://lcwj3.github.io/).
 
 My research interest includes vulnerability detection, open source governance, and software security, etc.
 
